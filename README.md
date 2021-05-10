@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Ishan Bhardwaj <img src="https://github.com/IB-14/IB-14/blob/main/Hi.gif" width="25"></h2>
-<img align="right" margin-left="500px" alt="GIF" src="https://github.com/IB-14/IB-14/blob/main/gif3.gif" width="100%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -27,13 +26,14 @@
 
 <br>
 
+## 📈 Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IB-14&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&langs_count=10&theme=tokyonight)](https://github.com/IB-14/github-readme-stats)
 
-
+<br>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
