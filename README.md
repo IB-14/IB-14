@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Ishan. <img src="https://github.com/IB-14/IB-14/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/IB-14/IB-14/gif3.gif" width="500"/>
+<h2> Hey there! I'm Ishan. <img src="https://github.com/IB-14/IB-14/blob/main/Hi.gif" width="25"></h2>
+<img align="right" margin-left="500px" alt="GIF" src="https://github.com/IB-14/IB-14/blob/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
