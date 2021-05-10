@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Ishan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Ishan. <img src="https://github.com/IB-14/IB-14/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/IB-14/IB-14/master//gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -21,7 +21,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
 <h3> 🤝🏻 Connect with Me </h3>
