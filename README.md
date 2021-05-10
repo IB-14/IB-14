@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ishan. <img src="https://github.com/IB-14/IB-14/blob/main/Hi.gif" width="25"></h2>
-<img align="right" margin-left="500px" alt="GIF" src="https://github.com/IB-14/IB-14/blob/main/gif3.gif" width="500"/>
+<img align="right" margin-left="500px" alt="GIF" src="https://github.com/IB-14/IB-14/blob/main/gif3.gif" width="100%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -8,28 +8,37 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering from Vellore Institute of Technology, Vellore.
 - 💼 &nbsp; Web Developer.
 
-<h3>🛠 Tech Stack</h3>
+<br>
 
-- 💻 &nbsp; Java | C++ | Python | Solidity 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJs
-- 🛢 &nbsp; Firebase
-- 🔧 &nbsp; Visual Studio code
+## 🧰 Languages and Tools:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_solidity.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IB-14)]
 
-&emsp;&emsp;
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IB-14&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&langs_count=10&theme=tokyonight)](https://github.com/IB-14/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
-<p>
-&nbsp; <a href="https://www.instagram.com/this.is.ishan_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/ishan-bhardwaj-b080b21a1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:ishan197231@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/this.is.ishan_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="60" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/ishan-bhardwaj-b080b21a1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60" /></a>
+&nbsp; <a href="mailto:ishan197231@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="60" /></a>
 </p>
-
-⭐️ From [IB-14](https://github.com/IB-14)
