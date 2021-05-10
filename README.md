@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ishan. <img src="https://github.com/IB-14/IB-14/blob/main/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Ishan Bhardwaj <img src="https://github.com/IB-14/IB-14/blob/main/Hi.gif" width="25"></h2>
 <img align="right" margin-left="500px" alt="GIF" src="https://github.com/IB-14/IB-14/blob/main/gif3.gif" width="100%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
