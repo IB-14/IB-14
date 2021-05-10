@@ -19,17 +19,17 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IB-14)]
 
-</br>
+&emsp;&emsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IB-14&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
 &nbsp; <a href="https://www.instagram.com/this.is.ishan_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ishan-bhardwaj-b080b21a1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ishan197231@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [IB-14](https://github.com/devSouvik)
+⭐️ From [IB-14](https://github.com/IB-14)
