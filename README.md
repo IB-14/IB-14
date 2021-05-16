@@ -17,7 +17,7 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_solidity.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
