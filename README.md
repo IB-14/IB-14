@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a currently learning Blockchain Development.
+- 🔭 &nbsp; I’m a Web Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering from Vellore Institute of Technology, Vellore.
-- 💼 &nbsp; Web Developer.
+- 💼 &nbsp; Interested in Blockchain Development.
 
 <br>
 
