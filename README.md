@@ -2,20 +2,22 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Web Developer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Engineering from Vellore Institute of Technology, Vellore.
-- 💼 &nbsp; Interested in Blockchain Development.
+- 🔭 &nbsp; I’m a Software Developer.
+- 💼 &nbsp; With my experience as an SDE at Amazon, I'm driven to engineer innovative solutions that drive impactful results.
+- 🤝 &nbsp; Open to connect and collaborate.
+- 🎓 &nbsp; Graduated with a CGPA of 9.05 in B.Tech. Computer Science & Engineering from VIT, Vellore.
 
 <br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://ih1.redbubble.net/image.525157175.0839/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
